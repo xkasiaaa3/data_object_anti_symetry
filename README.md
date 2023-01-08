@@ -28,6 +28,7 @@ You might want to use `git show` of `git diff` (if you haven't committed changes
 Add *triangle* shape to both procedural and oop code. Observe how many changes you need to make in each of given cases.
 Make a commit to the git repository.
 You might want to use `git show` of `git diff` (if you haven't committed changes yet) to compare the changes to both versions.
+Push the code to the remote repository for reviewal.
 
 ## 4. FINISH. Make conclusions
 
