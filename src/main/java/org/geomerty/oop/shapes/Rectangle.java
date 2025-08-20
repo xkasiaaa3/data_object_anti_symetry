@@ -18,4 +18,9 @@ public class Rectangle implements Shape{
     public Double area() {
         return width * height;
     }
+
+    @Override
+    public Double perimeter() {
+        return width *2 + height *2;
+    }
 }

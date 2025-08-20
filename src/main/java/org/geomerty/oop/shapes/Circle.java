@@ -18,4 +18,9 @@ public class Circle implements Shape{
     public Double area() {
         return  PI * radius * radius;
     }
+
+    @Override
+    public Double perimeter() {
+        return 2 * PI * radius;
+    }
 }
